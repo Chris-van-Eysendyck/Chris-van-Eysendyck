@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chris-van-Eysendyck
-- 👀 I’m interested in finding loopholes that allow me to code, without coding. Then I realised I should probably learn at least some code. 
+- 👀 I’m interested in finding answers, but find puzzles frustrating. Trying to get better, usually failing. 
 - 🌱 I’m currently learning Python, Jupyter, Power BI and how to avoid getting fired at work...
 - 💞️ I’m looking to collaborate on easy projects?
 - 📫 How to reach me c.vaneysendyck@gmail.com 
