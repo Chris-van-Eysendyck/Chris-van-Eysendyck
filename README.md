@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Chris-van-Eysendyck
 - 👀 I’m interested in finding answers, but find puzzles frustrating. Trying to get better, usually failing. 
 - 🌱 I’m currently learning Python, Jupyter, Power BI and how to avoid getting fired at work...
-- 💞️ I’m looking to collaborate on easy projects?
-- 📫 How to reach me c.vaneysendyck@gmail.com // https://www.kaggle.com/cvaneysendyck //
+- Loving the crossroads of finance, geopolitics and data
+- 📫 How to reach me: c.vaneysendyck@gmail.com // https://www.kaggle.com/cvaneysendyck // x: @Notes_ft_Ledge // BlueSky: @notes-ft-ledge.bsky.social
 - Subscribe on LinkedIn https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=6951182737105936385
 - ⚡ Fun fact: One person can't do all the much. Yet somehow, we managed to become interplanetary. Cool, right?
 <!---
