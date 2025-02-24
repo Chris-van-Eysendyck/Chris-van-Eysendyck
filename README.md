@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chris-van-Eysendyck
 - 👀 I’m interested in finding answers, but find puzzles frustrating. Trying to get better, usually failing. 
-- 🌱 I’m currently learning Python, Jupyter, Power BI and how to avoid getting fired at work...
+- 🌱 I’m currently learning Python, SQL, want to start on Jupyter, fooling around with Power BI and how to avoid getting fired at work...
 - Loving the crossroads of finance, geopolitics and data
 - 📫 How to reach me: c.vaneysendyck@gmail.com // https://www.kaggle.com/cvaneysendyck // x: @Notes_ft_Ledge // BlueSky: @notes-ft-ledge.bsky.social
 - Subscribe on LinkedIn https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=6951182737105936385
